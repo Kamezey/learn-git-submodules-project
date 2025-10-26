@@ -1,0 +1,9 @@
+
+### VS Code ###
+.vscode/
+
+### Ignored ###
+project-ignored.txt
+
+### Scripts to test with ###
+scripts/

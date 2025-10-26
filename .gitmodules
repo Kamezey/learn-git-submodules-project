@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Kamezey/learn-git-submodules-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kamezey/learn-git-submodules-backend.git
+[submodule "database"]
+	path = database
+	url = https://github.com/Kamezey/learn-git-submodules-database.git
